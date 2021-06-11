@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+
+.container div{
+    display: inline-block;
+    text-align: center;
+}
+
+span{
+    display: block;
+}
+
